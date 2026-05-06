@@ -7,8 +7,10 @@ Game developer from :kr:
   ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 - ## 📇 Stats Card
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsu24)](https://github.com/anuraghazra/github-readme-stats)
+  [![Minsu24's GitHub stats](https://github-stats-extended.vercel.app/api?username=minsu24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+- ## 🖤Most Language
+- [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=minsu24)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **minsu24/minsu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
