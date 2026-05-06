@@ -1,9 +1,13 @@
-# 😼Hello!
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hello!%20I'm%20JH&fontSize=90)
 
-I'm JH, Game developer from :kr:
+Game developer from :kr:
+
 
 - ## Skills
-  ![]()
+  ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsu24)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **minsu24/minsu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
